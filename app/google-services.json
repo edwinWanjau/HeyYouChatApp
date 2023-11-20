@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "873468482691",
+    "project_id": "heyyouchatapp-77843",
+    "storage_bucket": "heyyouchatapp-77843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873468482691:android:c9c61613998fb8225eb7b6",
+        "android_client_info": {
+          "package_name": "com.edwanjau11.heyyouchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWC85x5lBIi6oKO-9drtSLjp2PW-zX878"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
